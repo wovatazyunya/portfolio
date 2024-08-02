@@ -123,7 +123,7 @@ nav span::after {
 }
 
 #home {
-  background-image: url("jigazou.jpg");
+  background-image: url("images/jigazou.jpg");
   min-height: 100vh;
 }
 
